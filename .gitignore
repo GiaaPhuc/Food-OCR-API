@@ -1,0 +1,25 @@
+# Python rác (bytecode)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (BẮT BUỘC CHẶN)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# File tạm và Log
+*.log
+.DS_Store
+Thumbs.db
+
+# Nếu bạn có tải model về máy (weights)
+*.bin
+*.safetensors
+*.pt
+*.pth
