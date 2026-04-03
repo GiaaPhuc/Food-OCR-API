@@ -12,7 +12,7 @@ model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-small-printed
 
 @app.get("/")
 async def root():
-    """Trả về thông tin giới thiệu hệ thống [cite: 38]"""
+    """FoOdyssey - Smart Travel & Gastronomy"""
     return {
         "project": "FoOdyssey - Smart Travel & Gastronomy",
         "function": "OCR Menu Recognition using TrOCR",
