@@ -162,10 +162,12 @@ Video minh họa quá trình:
 ```
 .
 ├── main.py
+├── test_api.py
 ├── requirements.txt
 ├── README.md
-├── images
-│   └── sample.jpg
+├── data
+│   └── menu1.png
+│   └── menu2.png
 ```
 
 ---
@@ -201,7 +203,7 @@ Lớp 24CTT3 - Tư Duy Tính Toán
 
 **Tên Lab:** LAB 1 - API Nhận Diện Thực Đơn OCR
 **Môn học:** Tư Duy Tính Toán
-**Giảng viên:** (Điền tên giảng viên nếu có)
+**Giảng viên thực hành:** Lê Đức Khoan
 
 ---
 
