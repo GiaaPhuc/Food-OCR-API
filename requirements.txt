@@ -1,0 +1,20 @@
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# AI & Deep Learning
+transformers
+torch
+torchvision
+accelerate
+safetensors
+
+# OCR & Image Processing
+Pillow
+sentencepiece
+tiktoken
+protobuf
+
+# Testing & Utilities
+requests
