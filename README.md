@@ -13,9 +13,9 @@
 
 # 2. Mô hình Hugging Face
 
-* **Tên mô hình:** TrOCR (Transformer-based Optical Character Recognition)
+* **Tên mô hình:** TrOCR (small-sized model, fine-tuned on SROIE)
 
-* **Liên kết:** https://huggingface.co/microsoft/trocr-small-printed
+* **Liên kết:** [TrOCR](https://huggingface.co/microsoft/trocr-small-printed)
 
 * **Mô tả:**
   Hệ thống cho phép người dùng tải lên hình ảnh một dòng văn bản từ thực đơn và tự động chuyển đổi thành dữ liệu văn bản số (**String**) thông qua kiến trúc **Transformer**.
